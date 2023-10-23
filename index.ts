@@ -1,6 +1,6 @@
 const car: {
     brand: string;
-    model:string ;
+    model: string;
     country: string;
     price: number;
     color: string;
